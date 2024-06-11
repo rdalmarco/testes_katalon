@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT051 - Login Falhar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>acfecbec-7824-46c5-be7a-44c1f635b2f8</testCaseGuid>
+</TestCaseEntity>
