@@ -17,3 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.google.com/')
+
+WebUI.setText(findTestObject('Object Repository/Page_Google/textarea_Fazer login_q'), 'Rafael Dalmarco')
+
