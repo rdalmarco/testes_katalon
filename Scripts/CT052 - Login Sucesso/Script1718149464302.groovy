@@ -17,3 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost:3000/login')
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Entrar_Login'), 'ricardoWEG')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_React App/input_Entrar_senha'), 'GVuipzOTKzglwXCo9eqbU3du+wlMkudX')
+
+WebUI.click(findTestObject('Object Repository/Page_React App/button_Logar'))
+
+WebUI.click(findTestObject('Object Repository/Page_React App/a_Cadastros'))
+

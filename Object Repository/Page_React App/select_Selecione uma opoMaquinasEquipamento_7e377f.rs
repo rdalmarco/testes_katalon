@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Entrar</name>
+   <name>select_Selecione uma opoMaquinasEquipamento_7e377f</name>
    <tag></tag>
-   <elementGuidId>ef8d3554-4e5b-4a66-a58b-a3269e732c3b</elementGuidId>
+   <elementGuidId>5bd5280e-9146-4df6-be9c-2f4ab422dc26</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/a/button</value>
+         <value>//div[@id='root']/div/div/select</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.entrarApp</value>
+         <value>select</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,63 +22,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>70f543d6-4314-4a76-b534-6f9a9ebc69c5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>entrarApp</value>
-      <webElementGuid>516e9faf-570e-4ef5-955f-83c3faacca32</webElementGuid>
+      <value>select</value>
+      <webElementGuid>a1a722d4-0c76-4638-91d5-2fb5fa3d3926</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Entrar</value>
-      <webElementGuid>b51d14ef-8721-44e5-bbc4-dab6f735bc7f</webElementGuid>
+      <value>Selecione uma opçãoMaquinasEquipamentosSetoresOrdens de Serviço</value>
+      <webElementGuid>b7f68a21-9f60-48a6-a4b2-571c71ae4301</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;containerApp&quot;]/div[@class=&quot;buttons&quot;]/a[1]/button[@class=&quot;entrarApp&quot;]</value>
-      <webElementGuid>273708c9-bedb-4970-832c-83ab415f8a9f</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;relatoriosGerais&quot;]/div[@class=&quot;containerRelatorio&quot;]/select[1]</value>
+      <webElementGuid>d846b115-a31c-4699-bc8b-f8dbffd11c6c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/a/button</value>
-      <webElementGuid>a965a8f9-9384-4740-982c-00c4ded05df8</webElementGuid>
+      <value>//div[@id='root']/div/div/select</value>
+      <webElementGuid>136b9226-2176-48b7-9944-18465da4d702</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Entrar']/parent::*</value>
-      <webElementGuid>93c36d62-b873-4f3c-90c6-91e94995a85e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gerar PDF'])[1]/preceding::select[1]</value>
+      <webElementGuid>9759d905-1881-487b-84df-e0739d494344</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>e46bc375-54a7-4dbd-bc57-ab1387478784</webElementGuid>
+      <value>//select</value>
+      <webElementGuid>97d13d07-314b-4fa5-b803-82a8fe554a4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Entrar' or . = 'Entrar')]</value>
-      <webElementGuid>80efde1a-6235-4d4d-9ee1-2662925af71a</webElementGuid>
+      <value>//select[(text() = 'Selecione uma opçãoMaquinasEquipamentosSetoresOrdens de Serviço' or . = 'Selecione uma opçãoMaquinasEquipamentosSetoresOrdens de Serviço')]</value>
+      <webElementGuid>c437413f-3112-468f-9f91-d52d05291009</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -23,7 +23,9 @@ WebUI.navigateToUrl('http://localhost:3000/')
 
 WebUI.click(findTestObject('Object Repository/Page_React App/button_Entrar'))
 
-WebUI.setText(findTestObject('Object Repository/Page_React App/input_Entrar_Login'), 'wegner')
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Entrar_Login'), 'wegner123')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_React App/input_Entrar_senha'), 'BznO9uhG6VIMhlM41JCSCg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_React App/input_Entrar_senha'), 'BznO9uhG6VLCF33hmEDdYQ==')
+
+WebUI.click(findTestObject('Object Repository/Page_React App/button_Logar'))
 

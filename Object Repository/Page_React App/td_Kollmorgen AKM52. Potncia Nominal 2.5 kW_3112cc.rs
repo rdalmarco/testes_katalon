@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Kollmorgen AKM52. Potncia Nominal 2.5 kW_3112cc</name>
+   <tag></tag>
+   <elementGuidId>beb733e9-1cb4-48ac-bed4-b89b27af4d77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/table/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4933ef30-2b6b-42f2-8ea2-8085557b2148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>0db880cc-cf66-4205-8c67-3fc9b44e9477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kollmorgen AKM52. Potência Nominal: 2.5 kW, Tensão Nominal: 230V, Torque Nominal: 15 Nm</value>
+      <webElementGuid>841a3ed9-55b8-4dfb-b77a-f56c4a8649ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;containerConsulta&quot;]/div[2]/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;clickable-row&quot;]/td[3]</value>
+      <webElementGuid>ccc42dfb-1de7-48f2-a57c-ed7967fec2f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/table/tbody/tr/td[3]</value>
+      <webElementGuid>4df14f9b-b67d-4eec-b902-0264e7b9fc05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teste Rafael Equipamento'])[1]/following::td[1]</value>
+      <webElementGuid>d4716511-5a32-4f27-9d97-503ffc4be45a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::td[3]</value>
+      <webElementGuid>7c9d060a-0ddb-405e-b80a-0f299a5f12b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ativo'])[1]/preceding::td[1]</value>
+      <webElementGuid>970b2117-053c-4e8a-8f1d-3f5318b174e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;'])[1]/preceding::td[2]</value>
+      <webElementGuid>16e46476-ac2f-427c-833d-970a844fe6c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kollmorgen AKM52. Potência Nominal: 2.5 kW, Tensão Nominal: 230V, Torque Nominal: 15 Nm']/parent::*</value>
+      <webElementGuid>64c723c8-9840-4c6e-ad65-d864fde58c48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>8d55cf10-506e-46a8-abb6-a8e851b5357a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Kollmorgen AKM52. Potência Nominal: 2.5 kW, Tensão Nominal: 230V, Torque Nominal: 15 Nm' or . = 'Kollmorgen AKM52. Potência Nominal: 2.5 kW, Tensão Nominal: 230V, Torque Nominal: 15 Nm')]</value>
+      <webElementGuid>0fd3e07d-7c6f-40d3-8c3b-21f0689d9411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kollmorgen AKM52'])[1]/following::td[1]</value>
+      <webElementGuid>2a862a1f-b8f1-4d10-b945-ff08f4bf02ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inativo'])[1]/preceding::td[1]</value>
+      <webElementGuid>aabe549a-ded9-41f2-8d90-23d86327312a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

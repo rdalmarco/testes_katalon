@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Teste3</name>
+   <name>CT055 - Excluir todos os equipamentos - Gerar PDF</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>d18b6624-2ecf-4663-b3a3-f72df57d0cdc</testCaseGuid>
+   <testCaseGuid>a854d321-a545-457b-a3fd-9505409d7f3d</testCaseGuid>
 </TestCaseEntity>

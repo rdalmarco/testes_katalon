@@ -19,11 +19,22 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Google/textarea_Fazer login_q'), 'Testes')
+WebUI.click(findTestObject('Object Repository/Page_React App/button_Entrar'))
 
-WebUI.click(findTestObject('Object Repository/Page_Testes - Pesquisa Google/h3_Teste de personalidade gratuito'))
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Entrar_Login'), 'Rdalmarco')
 
-WebUI.closeBrowser()
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_React App/input_Entrar_senha'), '6wgwWWSkQ7Z5JNFp6IDipA==')
+
+WebUI.click(findTestObject('Object Repository/Page_React App/button_Logar'))
+
+WebUI.click(findTestObject('Object Repository/Page_React App/a_Relatrios'))
+
+WebUI.click(findTestObject('Object Repository/Page_React App/a_Gerais'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_React App/select_Selecione uma opoMaquinasEquipamento_7e377f'), 
+    'Equipamentos', true)
+
+WebUI.click(findTestObject('Object Repository/Page_React App/button_Gerar PDF'))
 

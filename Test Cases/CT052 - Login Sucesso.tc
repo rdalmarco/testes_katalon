@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Teste2</name>
+   <name>CT052 - Login Sucesso</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>45ce1b09-4658-461c-8b43-916104aaff9b</testCaseGuid>
+   <testCaseGuid>a8f0d0ff-24ca-4299-9e2a-e2f1ad338c63</testCaseGuid>
 </TestCaseEntity>

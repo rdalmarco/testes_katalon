@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_VoltarCadastrar EquipamentoModeloCNC de_2f5786</name>
+   <tag></tag>
+   <elementGuidId>0aaa454f-68e1-41d7-9447-729ee55c6180</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.containerCadastro</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>61a23d5c-6d29-4fc0-896c-513f108f1438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>containerCadastro</value>
+      <webElementGuid>3569c16c-0380-45ce-a27a-76f05306ee80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VoltarCadastrar EquipamentoModeloCNC de Cabeçote FixoTorno ManualSiemens SIMOTICS S-1FK7ABB M3BPRolamentos de Rolos Cilíndricos de Quatro CarreirasRolamento de esferas metálicas (Radial)Motor de Eixo com Freio Integrado KollmorgenMáquinaCNC-001CNC-002StatusAtivoInativoEnviarExcluir</value>
+      <webElementGuid>ffd4dce1-e757-4453-8cf7-6ec794e32c40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;tittleAlterarEquipamento&quot;]/div[@class=&quot;containerCadastro&quot;]</value>
+      <webElementGuid>0ddd408b-b9b6-4b67-acce-9dcd71478406</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div</value>
+      <webElementGuid>a524775f-7358-438b-a1ee-e9e38162a33d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>f43af436-76f7-4b74-8329-510ebc75df41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'VoltarCadastrar EquipamentoModeloCNC de Cabeçote FixoTorno ManualSiemens SIMOTICS S-1FK7ABB M3BPRolamentos de Rolos Cilíndricos de Quatro CarreirasRolamento de esferas metálicas (Radial)Motor de Eixo com Freio Integrado KollmorgenMáquinaCNC-001CNC-002StatusAtivoInativoEnviarExcluir' or . = 'VoltarCadastrar EquipamentoModeloCNC de Cabeçote FixoTorno ManualSiemens SIMOTICS S-1FK7ABB M3BPRolamentos de Rolos Cilíndricos de Quatro CarreirasRolamento de esferas metálicas (Radial)Motor de Eixo com Freio Integrado KollmorgenMáquinaCNC-001CNC-002StatusAtivoInativoEnviarExcluir')]</value>
+      <webElementGuid>d7a88e27-c469-4f46-8048-807d3576e54e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

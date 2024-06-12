@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Inicial_Testes_Integracao</name>
+   <name>CT056 - Alterar equipamento - Gerar PDF</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>ba19b5cb-06a0-4039-875d-0ddec82d6f0f</testCaseGuid>
+   <testCaseGuid>fadb17db-5994-4b06-bae7-0295982bd7f1</testCaseGuid>
 </TestCaseEntity>

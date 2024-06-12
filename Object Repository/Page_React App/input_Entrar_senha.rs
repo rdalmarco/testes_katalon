@@ -6,12 +6,12 @@
    <elementGuidId>b2569314-2661-44db-883f-ae51e018fce5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.senha</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.senha</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>48d466f7-4dce-4579-aae6-93003472158b</webElementGuid>
+      <webElementGuid>d45507a3-18d6-4c70-b399-15abd47ec00b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>senha</value>
-      <webElementGuid>44db3447-b12a-4a6f-aa70-ae08b047cc53</webElementGuid>
+      <webElementGuid>3263f207-d7eb-44e0-83ab-db8ce86fcdf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,15 +39,15 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>49686ed2-e7bf-4276-b3e9-fef003605e82</webElementGuid>
+      <webElementGuid>281471e8-45ed-48cb-98ef-409e8e9c0065</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>wegner1234</value>
-      <webElementGuid>c1594d1a-bf04-43c0-837f-456628c974bc</webElementGuid>
+      <value>R</value>
+      <webElementGuid>24301555-0f50-4127-a28d-0826b7ecb022</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>wfd-id</name>
       <type>Main</type>
       <value>id1</value>
-      <webElementGuid>2581e6ad-dd38-436a-bcef-b361176c8ec9</webElementGuid>
+      <webElementGuid>6ca4fbe8-5b3d-43a7-9645-9c88c38d210e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;tittleLogin&quot;]/div[@class=&quot;containerLogin&quot;]/div[@class=&quot;campos&quot;]/input[@class=&quot;senha&quot;]</value>
-      <webElementGuid>7c45a7f3-c7b9-4941-9dcf-1d202a0cbe0c</webElementGuid>
+      <webElementGuid>7189c967-06a4-4a44-bed8-2924cebb6936</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='']</value>
-      <webElementGuid>eefd992f-0c64-4158-80d6-f0804e0a73a4</webElementGuid>
+      <webElementGuid>5585b0b8-890c-404b-b801-9d666f543b57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/input[2]</value>
-      <webElementGuid>c2074d68-ce32-491e-9740-4e717e9a8fc2</webElementGuid>
+      <webElementGuid>1c14f835-7448-4f8c-b93b-bbeaa045e060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[2]</value>
-      <webElementGuid>f65ee11d-112b-4e37-bcd3-884fc6916a7e</webElementGuid>
+      <webElementGuid>e20172af-76ee-49d0-be24-f4a78030e709</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,15 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password']</value>
-      <webElementGuid>912f4a59-9c7a-4c81-b031-3b6491ba8a69</webElementGuid>
+      <webElementGuid>68a1b3b8-214c-4661-af9c-0741e9382cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='R']</value>
+      <webElementGuid>b614ff5a-598f-49f2-8439-233e7a9348ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +111,6 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='wegner1234']</value>
-      <webElementGuid>dc6c9c78-6e20-4741-8b7b-9b21fd295eeb</webElementGuid>
+      <webElementGuid>c3323549-ced2-4f43-bd07-50d0ffec8d14</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

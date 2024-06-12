@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Entrar</name>
+   <name>button_Gerar PDF</name>
    <tag></tag>
-   <elementGuidId>ef8d3554-4e5b-4a66-a58b-a3269e732c3b</elementGuidId>
+   <elementGuidId>d5b2275b-2b6e-45c0-ba56-bdf3a2084b01</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/a/button</value>
+         <value>//div[@id='root']/div/div/button</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.entrarApp</value>
+         <value>button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,47 +23,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>70f543d6-4314-4a76-b534-6f9a9ebc69c5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>entrarApp</value>
-      <webElementGuid>516e9faf-570e-4ef5-955f-83c3faacca32</webElementGuid>
+      <webElementGuid>d82dd5b2-c33a-4015-a0c5-cb3164f96b2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Entrar</value>
-      <webElementGuid>b51d14ef-8721-44e5-bbc4-dab6f735bc7f</webElementGuid>
+      <value>Gerar PDF</value>
+      <webElementGuid>0034fc39-7ec8-4a9b-bf79-b6079a50ef31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;containerApp&quot;]/div[@class=&quot;buttons&quot;]/a[1]/button[@class=&quot;entrarApp&quot;]</value>
-      <webElementGuid>273708c9-bedb-4970-832c-83ab415f8a9f</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;relatoriosGerais&quot;]/div[@class=&quot;containerRelatorio&quot;]/button[1]</value>
+      <webElementGuid>13612d13-5b5d-46a9-b18a-e65d700594bc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/a/button</value>
-      <webElementGuid>a965a8f9-9384-4740-982c-00c4ded05df8</webElementGuid>
+      <value>//div[@id='root']/div/div/button</value>
+      <webElementGuid>c1f0efb1-b7d8-456e-ab50-bb589dc76191</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Entrar']/parent::*</value>
-      <webElementGuid>93c36d62-b873-4f3c-90c6-91e94995a85e</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Gerar PDF']/parent::*</value>
+      <webElementGuid>684f5a11-fcb9-44b7-a143-77cdae9d4633</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,14 +63,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>e46bc375-54a7-4dbd-bc57-ab1387478784</webElementGuid>
+      <webElementGuid>1f9c23ff-19b8-4635-888a-58e1aaa62cec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Entrar' or . = 'Entrar')]</value>
-      <webElementGuid>80efde1a-6235-4d4d-9ee1-2662925af71a</webElementGuid>
+      <value>//button[(text() = 'Gerar PDF' or . = 'Gerar PDF')]</value>
+      <webElementGuid>9ab9acd5-321d-447e-bebb-7fe101f412c7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

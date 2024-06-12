@@ -6,12 +6,12 @@
    <elementGuidId>03c0204b-b005-4640-8905-41c5687f5aca</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.Login</value>
+         <key>XPATH</key>
+         <value>//input[@value='Teste Rafael Equipamento']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@value='']</value>
+         <key>CSS</key>
+         <value>input.formsCadastro</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,15 +23,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5f1b5c14-6e61-4f8b-a015-564f4295bdaa</webElementGuid>
+      <webElementGuid>6422d9a3-e905-4719-babf-e794a5a3c910</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>e0c172b0-e36d-40c4-9346-69a41462e07c</webElementGuid>
+      <value>formsCadastro</value>
+      <webElementGuid>f5f0b9e7-afed-4978-9264-00227d67e395</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,31 +39,55 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e56c566b-185f-480d-8172-4ad3bf44a329</webElementGuid>
+      <webElementGuid>72a69bb4-a193-46b6-a4d8-2392384e095d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;tittleLogin&quot;]/div[@class=&quot;containerLogin&quot;]/div[@class=&quot;campos&quot;]/input[@class=&quot;Login&quot;]</value>
-      <webElementGuid>c36cd31b-5a9e-4b94-a5d8-b0f9f227c0c0</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;tittleAlterarEquipamento&quot;]/div[@class=&quot;containerCadastro&quot;]/form[1]/div[1]/input[@class=&quot;formsCadastro&quot;]</value>
+      <webElementGuid>ccae033c-a67a-499d-9794-f6692c7f7ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nome</value>
+      <webElementGuid>ed7ed076-fc8d-43c9-bc81-77e81ad998cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Teste Rafael Equipamento</value>
+      <webElementGuid>d16963a1-9f18-474d-b266-f0783125c2db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>wfd-id</name>
+      <type>Main</type>
+      <value>id0</value>
+      <webElementGuid>8acd463e-1da4-4619-83c6-2eba149c6fd6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@value='']</value>
-      <webElementGuid>c3f22049-bf85-40a1-a1ee-f3e430f92ec3</webElementGuid>
+      <value>//input[@value='Teste Rafael Equipamento']</value>
+      <webElementGuid>afcd679a-7052-413a-9cc5-842775e3e271</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/div/input</value>
-      <webElementGuid>4b7895e3-c5c0-4fdd-a282-2c521d9bd3fa</webElementGuid>
+      <value>//div[@id='root']/div/div/form/div/input</value>
+      <webElementGuid>be08b539-d141-4ae6-bff5-4d26b9d1002a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +95,31 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>8b2ba1ee-4a88-4734-b7ad-5c4970bf44fe</webElementGuid>
+      <webElementGuid>2ec19daf-369c-446b-a174-b78a3002e038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Nome']</value>
+      <webElementGuid>0559fc65-e065-4114-a720-09cef8fed056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>c8b89b5b-f9f3-43e8-afa0-f7d1f6b57845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/input</value>
+      <webElementGuid>23f1c5c8-15b5-467d-8603-84351ff8f556</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +127,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>830ca941-2358-4068-bdc0-916251d54d73</webElementGuid>
+      <webElementGuid>dace0d00-ca36-4fb7-9b02-ae297205f587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Kollmorgen AKM52']</value>
+      <webElementGuid>fc8d6e08-02fa-439e-bb51-e89073920209</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
